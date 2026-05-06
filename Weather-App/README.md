@@ -1,3 +1,2 @@
-#  My Fotos
-My first open-source project
+# My first Open-source project
 My fotos
